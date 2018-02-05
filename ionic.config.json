@@ -1,0 +1,8 @@
+{
+  "name": "Cloudhrm",
+  "app_id": "e98c7564",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
